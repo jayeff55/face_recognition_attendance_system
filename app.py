@@ -16,12 +16,6 @@ date_today = date.today().strftime("%d_%m_%Y")
 
 initialise_tracking(date_today)
 
-# TODO: add username criteria and error message
-# TODO: cosmetic changes to page
-# TODO: readme
-
-# TODO: split home page + list all registered user (somewhere) (later)
-
 
 # Routing functions
 @app.route("/")

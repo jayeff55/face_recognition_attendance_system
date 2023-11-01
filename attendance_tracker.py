@@ -75,7 +75,7 @@ def get_total_users():
     return len(os.listdir("static/faces"))
 
 
-def check_username_format(username: str): # TODO: this didn't work/not linked properly
+def check_username_format(username: str):
     pattern = "^[a-zA-Z]+_{1}[0-9]+$"
     if re.match(pattern, username):
         return True
