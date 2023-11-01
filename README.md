@@ -10,7 +10,7 @@ As part of adding the new user, a pre-defined number of images of the new user w
 
 Once a new user has been added, or if in the case of an existing user, attendance can be taken by one simple click to process the face recognition verification and logged accordingly.
 
-![image]([https://github.com/jayeff55/face_recognition_attendance_system/assets/74664129/40076134-7c0b-4ceb-99e4-38aff075a347](https://raw.githubusercontent.com/jayeff55/face_recognition_attendance_system/main/app.png))
+![image](app.png)
 
 ## Running the app
 Dependencies: `python3`, `opencv-python`, `flask`
