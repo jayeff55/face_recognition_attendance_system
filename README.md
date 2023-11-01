@@ -12,6 +12,11 @@ Once a new user has been added, or if in the case of an existing user, attendanc
 
 ![image](https://github.com/jayeff55/face_recognition_attendance_system/assets/74664129/40076134-7c0b-4ceb-99e4-38aff075a347)
 
+## Running the app
+Dependencies: `python3`, `opencv-python`, `flask`
+
+Ensure that you have all dependencies downloaded, then simply run `flask run` in the project terminal
+
 ### Technologies
 - Language: Python, HTML, CSS
 - Libraries: flask, openCV, sklearn
