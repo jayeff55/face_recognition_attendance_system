@@ -15,8 +15,8 @@ Once a new user has been added, or if in the case of an existing user, attendanc
 ## Running the app
 Dependencies: `python3`, `opencv-python`, `flask`
 
-Ensure that you have all dependencies downloaded, then simply run `flask run` in the project terminal
+Ensure that you have all dependencies downloaded, then simply run `flask run` in this project terminal
 
-### Technologies
+## Technologies
 - Language: Python, HTML, CSS
 - Libraries: flask, openCV, sklearn
